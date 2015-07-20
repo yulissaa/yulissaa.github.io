@@ -1,0 +1,23 @@
+
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+body {
+  font-family: 'PT Sans Narrow', sans-serif;
+  text-align: center;
+  padding-left: 85px;
+  padding-right: 85px;
+  color: black;
+  background-image: url("http://images.fineartamerica.com/images-medium-large-5/chicago-flag-watercolor-mike-maher.jpg");
+  background-size: cover;
+}
+
+h1{
+  font-size: 35pt;
+}
+
+p{
+  font-size: 20pt;
+}
+
+div {
+  opacity: 1;
+}
